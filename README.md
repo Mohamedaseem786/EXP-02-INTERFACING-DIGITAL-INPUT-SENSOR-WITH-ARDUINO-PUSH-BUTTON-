@@ -87,5 +87,5 @@ void loop()
 ```
 Output of the simulation :
 
-![image](simulating.png)
+![image](Simulating.png)
 
